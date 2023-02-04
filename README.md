@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tjm-teo
-- 👀 I’m interested in video game development and machine learning.
+- 👀 I’m interested in video game development the interface between software and hardware.
 
 <!---
 tjm-teo/tjm-teo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
