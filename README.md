@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjm-teo 
 - I study Computer Science and Electrical Engineering
-- I’m interested in video game development and the interface between software and hardware.
+- I’m interested in the interface between software and hardware as well as video game development.
 - My other interests include Music, Physics, Math, Philosophy, and Cognitive science.
 
 <!---
