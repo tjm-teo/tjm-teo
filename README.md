@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Timo
-- I study Computer Science and Electrical Engineering
+- I study Computer Science and Electrical Engineering at Columbia University
 - I’m interested in the interface between software and hardware as well as video game development.
 - My other interests include Music, Physics, Math, Philosophy, and Linguistics.
 
